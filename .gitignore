@@ -3,7 +3,7 @@ classes/
 target/
 .DS_Store
 .idea/
-.idea
+.idea/*
 .jar
 *.iml
 gradle/wrapper/
